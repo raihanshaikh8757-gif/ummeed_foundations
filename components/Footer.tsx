@@ -12,13 +12,13 @@ export default function Footer() {
               <div className="w-9 h-9 rounded-full overflow-hidden border border-white/20 shrink-0">
                 <Image
                   src="/site-logo.jpeg"
-                  alt="Ummeed Foundation logo"
+                  alt="UMEED RISE FOUNDATION logo"
                   width={36}
                   height={36}
                   className="w-full h-full object-cover"
                 />
               </div>
-              <span className="text-white font-bold text-xl tracking-tighter uppercase">Ummeed</span>
+              <span className="text-white font-bold text-xl tracking-tighter uppercase">UMEED RISE FOUNDATION</span>
             </Link>
             <p className="text-text-body mb-6 text-sm leading-relaxed max-w-sm">
               Bringing hope to every child. Supporting education, food distribution, and festival gift support. Your small help can change lives.
@@ -60,7 +60,7 @@ export default function Footer() {
 
         <div className="mt-16 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-text-body">
-            &copy; {new Date().getFullYear()} Ummeed Foundation. All rights reserved.
+            &copy; {new Date().getFullYear()} UMEED RISE FOUNDATION. All rights reserved.
           </p>
           <div className="flex gap-4">
             <a href="#" className="text-text-body hover:text-white transition-colors text-xs">Privacy Policy</a>

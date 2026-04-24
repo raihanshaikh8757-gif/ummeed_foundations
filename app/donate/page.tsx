@@ -85,7 +85,7 @@ function DonatePageContent() {
   }, [customAmount, selectedAmount]);
   const upiId = 'ummeed.foundation@upi';
   const upiLink = `upi://pay?pa=${encodeURIComponent(upiId)}&pn=${encodeURIComponent(
-    'Ummeed Foundation',
+    'UMEED RISE FOUNDATION',
   )}&am=${encodeURIComponent(String(finalAmount))}&cu=INR&tn=${encodeURIComponent('NGO Donation')}`;
 
   const startPayment = async (e: FormEvent<HTMLFormElement>) => {
@@ -135,7 +135,7 @@ function DonatePageContent() {
         key: orderData.key,
         amount: orderData.amount,
         currency: orderData.currency,
-        name: 'Ummeed Foundation',
+        name: 'UMEED RISE FOUNDATION',
         description: `Donation of INR ${finalAmount}`,
         order_id: orderData.orderId,
         prefill: {
@@ -310,7 +310,7 @@ function DonatePageContent() {
 
           <div className="mt-6 space-y-2 text-sm text-text-body">
             <p><span className="text-white font-semibold">UPI ID:</span> {upiId}</p>
-            <p><span className="text-white font-semibold">Account Name:</span> Ummeed Foundation</p>
+            <p><span className="text-white font-semibold">Account Name:</span> UMEED RISE FOUNDATION</p>
             <p><span className="text-white font-semibold">Note:</span> Replace with your verified NGO banking details.</p>
           </div>
         </section>

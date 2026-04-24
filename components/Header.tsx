@@ -36,14 +36,14 @@ export default function Header() {
           <div className="w-9 h-9 rounded-full overflow-hidden border border-white/20 shrink-0">
             <Image
               src="/site-logo.jpeg"
-              alt="Ummeed Foundation logo"
+              alt="UMEED RISE FOUNDATION logo"
               width={36}
               height={36}
               className="w-full h-full object-cover"
             />
           </div>
-          <span className="text-white font-bold text-xl tracking-tighter uppercase hidden sm:block">Ummeed Foundation</span>
-          <span className="text-white font-bold text-xl tracking-tighter uppercase sm:hidden">Ummeed</span>
+          <span className="text-white font-bold text-xl tracking-tighter uppercase hidden sm:block">UMEED RISE FOUNDATION</span>
+          <span className="text-white font-bold text-xl tracking-tighter uppercase sm:hidden">UMEED RISE FOUNDATION</span>
         </Link>
 
         {/* Desktop Nav */}

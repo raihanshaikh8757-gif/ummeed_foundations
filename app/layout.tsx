@@ -10,7 +10,7 @@ const spaceGrotesk = Space_Grotesk({ subsets: ['latin'], variable: '--font-headi
 const jetbrainsMono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono' });
 
 export const metadata: Metadata = {
-  title: 'Ummeed Foundation | Bringing Hope to Every Child',
+  title: 'UMEED RISE FOUNDATION | Bringing Hope to Every Child',
   description: 'NGO Website for child education, food distribution, and festival gift support. Bring hope to children.',
 };
 

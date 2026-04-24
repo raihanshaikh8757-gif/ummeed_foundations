@@ -462,7 +462,7 @@ export default function Home() {
               </div>
               <div className="absolute -bottom-6 md:-right-6 right-0 bg-accent-red text-white p-6 md:p-8 shadow-2xl z-20">
                 <p className="text-xl md:text-2xl font-bold uppercase tracking-tight leading-none mb-1">Sikandar Bhai</p>
-                <p className="text-[10px] tracking-widest uppercase opacity-80 font-bold">Founder, Ummeed Foundation</p>
+                <p className="text-[10px] tracking-widest uppercase opacity-80 font-bold">Founder, UMEED RISE FOUNDATION</p>
               </div>
             </div>
 
@@ -482,7 +482,7 @@ export default function Home() {
                
               <div className="space-y-6 text-text-body text-sm md:text-base border-l-2 border-white/10 pl-6 italic">
                 <p>
-                  &quot;When I started Ummeed Foundation, it was with a simple conviction: no one should go to sleep hungry, and no child should be denied education because of financial struggles. What began as a small initiative to distribute food has grown into a movement of hope.&quot;
+                  &quot;When I started UMEED RISE FOUNDATION, it was with a simple conviction: no one should go to sleep hungry, and no child should be denied education because of financial struggles. What began as a small initiative to distribute food has grown into a movement of hope.&quot;
                 </p>
                 <p>
                   &quot;We believe that real change happens at the grassroots. By providing nourishment to the body and education to the mind, we are not just giving charity; we are investing in the future leaders, thinkers, and builders of our nation. Every festival gift, every meal, and every uniform we provide is a message to these children that they matter, and they are not alone.&quot;
@@ -557,7 +557,7 @@ export default function Home() {
             {/* Review 1 */}
             <div className="bg-[#121212] p-8 border border-white/5 shadow-2xl relative">
               <span className="text-6xl text-accent-red opacity-10 font-serif absolute top-4 left-6 mix-blend-screen">&quot;</span>
-              <p className="text-text-body text-sm italic mb-6 relative z-10">&quot;Ummeed Foundation is doing incredible ground-level work. I volunteered during their food distribution and the impact was genuinely visible.&quot;</p>
+              <p className="text-text-body text-sm italic mb-6 relative z-10">&quot;UMEED RISE FOUNDATION is doing incredible ground-level work. I volunteered during their food distribution and the impact was genuinely visible.&quot;</p>
               <div className="border-t border-white/10 pt-4">
                 <p className="text-white font-bold text-xs uppercase tracking-widest">Rahul Sharma</p>
                 <p className="text-accent-red text-[10px] uppercase font-bold tracking-widest">Volunteer</p>

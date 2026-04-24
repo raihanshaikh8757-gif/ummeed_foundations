@@ -25,7 +25,7 @@ export default function AboutPage() {
             <h2 className="text-4xl font-extrabold text-white mb-6 uppercase tracking-tight">Our Story</h2>
             <div className="space-y-4 text-text-body leading-relaxed">
               <p>
-                Founded by Sikandar Bhai, the Ummeed Foundation started with a simple thought: no child should be deprived of basic needs like food and education due to financial constraints.
+                Founded by Sikandar Bhai, UMEED RISE FOUNDATION started with a simple thought: no child should be deprived of basic needs like food and education due to financial constraints.
               </p>
               <p>
                 What began as a small initiative in a local neighborhood, distributing meals on weekends, has now grown into a large movement supporting over 5,000 children across multiple cities. We strongly believe that every child has immense potential, and with the right support, they can achieve wonders.
