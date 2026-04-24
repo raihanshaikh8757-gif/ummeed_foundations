@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-background-main: #0B0B0B;
+  --color-background-section: #121212;
+  --color-text-heading: #FFFFFF;
+  --color-text-body: #BFBFBF;
+  --color-accent-red: #E50914;
+  --color-accent-hover: #FF2E2E;
+}
+
+body {
+  background-color: var(--color-background-main);
+  color: var(--color-text-body);
+}
+
+::selection {
+  background-color: var(--color-accent-red);
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text-heading);
+}
