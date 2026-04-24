@@ -96,7 +96,7 @@ export default function Header() {
                   {link.name}
                 </Link>
               ))}
-              <div className="mt-auto pt-8 border-t border-white/10">
+              <div className="mt-4 pt-6 border-t border-white/10">
                 <div className="mb-5 rounded-md border border-white/10 bg-black/20 p-4">
                   <p className="text-[11px] font-bold uppercase tracking-[0.2em] text-white text-center mb-3">
                     Pay Now
